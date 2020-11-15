@@ -19,10 +19,9 @@ You will also be competing!  Rules of engagement:
 
  - You MAY use outside resources and tools
  - You MAY NOT use outside solutions to the specific wargame tasks.  Yes, I will probably know, and yes your total class grade will be decimated.  
- - You MAY converse with your class about this project on the D2L message board in generics, and linking to help... don't share solutions.
+ - You MAY converse with your class about this project on the D2L message board "Wargame Discussion" in generics, and linking to help... don't share solutions.
  - You MAY NOT discuss the project through any other channel or medium (text, whatsapp, Slack, Teams, email, in-person -- ALL are prohibited)
  - You MAY NOT work as a team
- - 
 
 Project Assignment (i.e. bare minimum to get a 100)
 The setup (mandatory -- i.e. **nothing else is graded without this**). There are no limitations to using outside sources on the setup phase: 
