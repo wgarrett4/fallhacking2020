@@ -28,7 +28,8 @@ Project Assignment (i.e. bare minimum to get a 100)
 The setup (mandatory -- i.e. **nothing else is graded without this**). There are no limitations to using outside sources on the setup phase: 
  - [ ] Sign up for WeChall, connected to overthewire.org . Guide is here: https://overthewire.org/information/wechall.html
  - [ ] Add overthewire.org as a linked site in wechall here https://www.wechall.net/linked_sites
- - [ ] Make a pull request to this page, updating the table below with your real name, overthewire name, and wechall name.  More info here https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+ - [ ] Make a pull request to this page, updating the table below with your initials, overthewire name, and wechall name.  More info here https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+ - [ ] Go to the D2L forum "Wargames Mapping" and post your wechall username and your overthewire username
 
 Shell hacking (25%). Looking up a Linux command or conceptual help is fine.  Looking up **answers** = integrity violation.   Just don't do it.  Looking up a Linux command is fine.  Source **everything**   :
 
@@ -54,7 +55,7 @@ Free Form: (25%).  Looking up a Linux command or conceptual help is fine.  Looki
 
 Finishing: Create a file named "0-completion.docx" that contains a list of all the overthewire.org challenges you completed, as well as your final wechall user name and overall score.
 
-Win Scenario based on total SCORE on wechall.  It doesn't matter which sites you use, the only thing that matters will be the final score.
+EXTRA CREDIT: Win Scenario based on total SCORE on wechall.  It doesn't matter which sites you use, the only thing that matters will be the final score.
 1st Place: 4% to final grade
 2nd Place: 3% to final grade
 3rd Place: 2% to final grade
