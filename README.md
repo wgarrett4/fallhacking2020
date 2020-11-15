@@ -54,15 +54,23 @@ Free Form: (25%).  Looking up a Linux command or conceptual help is fine.  Looki
 
 Finishing: Create a file named "0-completion.docx" that contains a list of all the overthewire.org challenges you completed, as well as your final wechall user name and overall score.
 
-EXTRA CREDIT: Win Scenario based on total SCORE on wechall.  It doesn't matter which sites you use, the only thing that matters will be the final score.
-1st Place: 4% to final grade
-2nd Place: 3% to final grade
-3rd Place: 2% to final grade
+EXTRA CREDIT: Win Scenario based on total SCORE on wechall.  It doesn't matter which sites you use, the only thing that matters will be the final score.     
 
-4-10: +15 points on final exam
-11-20: +10 points on final exam
-21-30: +5 points on final exam
-31-37: +0 points on final exam
+1st Place: 4% to final grade     
+
+2nd Place: 3% to final grade     
+
+3rd Place: 2% to final grade     
+
+
+4-10: +15 points on final exam     
+
+11-20: +10 points on final exam     
+
+21-30: +5 points on final exam     
+
+31-37: +0 points on final exam     
+
 
 Students:
 |Initials |Overthewire Name  |  WeChall name  |      
