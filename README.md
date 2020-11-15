@@ -24,7 +24,7 @@ You will also be competing!  Rules of engagement:
  - You MAY NOT work as a team
 
 Project Assignment (i.e. bare minimum to get a 100)
-The setup (mandatory -- i.e. **nothing else is graded without this**). There are no limitations to using outside sources on the setup phase: 
+The setup (mandatory -- i.e. **nothing else is graded without this**). There are no limitations to using outside sources on the setup phase.  Complete this as soon as possible so we can start tracking the scoreboard: 
  - [ ] Sign up for WeChall, connected to overthewire.org . Guide is here: https://overthewire.org/information/wechall.html
  - [ ] Add overthewire.org as a linked site in wechall here https://www.wechall.net/linked_sites
  - [ ] Make a pull request to this page, updating the table below with your initials, overthewire name, and wechall name.  More info here https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
