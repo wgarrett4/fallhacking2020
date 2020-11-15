@@ -14,7 +14,6 @@ You will learn:
  - Linux shell/hacking
  - Cryptographic concepts
  - Application Security
- - LIGHT coding
 
 You will also be competing!  Rules of engagement:
 
@@ -66,7 +65,7 @@ Win Scenario based on total SCORE on wechall.  It doesn't matter which sites you
 31-37: +0 points on final exam
 
 Students:
-|Real Name|Overthewire Name  |  WeChall name  |      
+|Initials |Overthewire Name  |  WeChall name  |      
 |--|--| -- |
-| Chad Teat |ethicalprof |ethicalprof
+| CT |ethicalprof |ethicalprof
 |  |  |  |
