@@ -75,6 +75,5 @@ Students:
 |--|--|--|
 |CT|ethicalprof|ethicalprof|
 |AH|Zorak|Zorak|
-| CT |ethicalprof |ethicalprof
 | EW |ewarnock    |ewarnock
 | AH |ahill167 | ahill167 |
