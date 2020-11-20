@@ -77,4 +77,5 @@ Students:
 |AH|Zorak|Zorak|
 | EW |ewarnock    |ewarnock
 | AH |ahill167 | ahill167 |
+|DB|dbow|dbow|
 | GD |mdaugh10 | mdaugh10 |
